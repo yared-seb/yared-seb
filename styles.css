@@ -197,7 +197,7 @@ main {
   .hero-section img{
     margin-top:100px;
     width:50%;
-    border-radius:25%;
+    border-radius:10pz;
 }
   
 
@@ -531,6 +531,7 @@ main {
   text-align: center;
   color: #9ca3af;
 }
+
 
 
 

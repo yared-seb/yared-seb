@@ -190,6 +190,15 @@ main {
   background-color: #4b5563;
 }
 
+@media(max-width:768px){
+ .hero-section{
+   flex-direction:column;
+ }
+  .hero-section img{
+    margin-top:90px;
+}
+  
+
 /* About Section */
 .about-section,
 .experience-section,
@@ -519,3 +528,4 @@ main {
   text-align: center;
   color: #9ca3af;
 }
+

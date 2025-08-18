@@ -240,10 +240,10 @@ main {
     align-items: center;
   }
   .profile-image {
-    width: 33.333%;
+    width: 100%;
   }
   .about-text {
-    width: 66.666%;
+    width: 100%;
   }
 }
 
@@ -529,5 +529,6 @@ main {
   text-align: center;
   color: #9ca3af;
 }
+
 
 

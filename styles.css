@@ -195,7 +195,7 @@ main {
    flex-direction:column;
  }
   .hero-section img{
-    margin-top:90px;
+    margin-top:100px;
 }
   
 
@@ -237,6 +237,7 @@ main {
   .about-content {
     flex-direction: row;
     text-align: left;
+    align-items: center;
   }
   .profile-image {
     width: 33.333%;
@@ -528,4 +529,5 @@ main {
   text-align: center;
   color: #9ca3af;
 }
+
 

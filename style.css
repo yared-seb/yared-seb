@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: -apple-system, Roboto, sans-serif, sans-serif;
+  color: white;
+}
+
+/* header section */
+
+.logo h1 {
+  letter-spacing: 4px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  align-items: center;
+  background-color: transparent;
+  padding: 10px 60px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+  letter-spacing: 3px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+li a:hover {
+  color: orange;
+
+  transition: 0.5s ease-in-out;
+}

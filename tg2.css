@@ -106,7 +106,7 @@ body {
 /* Sections */
 main {
   padding-top: 1rem;
-  border: 2px solid;
+  
 }
 
 .section-title {
@@ -545,3 +545,4 @@ main {
   text-align: center;
   color: #9ca3af;
 }
+
